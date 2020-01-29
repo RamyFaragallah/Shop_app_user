@@ -1,16 +1,13 @@
-# test_app
+shop app (user side)
+![Screenshot_1580286593](https://user-images.githubusercontent.com/49294267/73339927-6b346900-4282-11ea-850e-edfe780f6ddb.png)
+![Screenshot_1580286356](https://user-images.githubusercontent.com/49294267/73339930-6b346900-4282-11ea-9e4d-f9b00fd7c239.png)
+![Screenshot_1580286410](https://user-images.githubusercontent.com/49294267/73339932-6bccff80-4282-11ea-9eae-9943e119cd1a.png)
+![Screenshot_1580286427](https://user-images.githubusercontent.com/49294267/73339934-6bccff80-4282-11ea-97dc-f1e6775e6dde.png)
+![Screenshot_1580286433](https://user-images.githubusercontent.com/49294267/73339935-6bccff80-4282-11ea-8225-0e487929e72a.png)
+![Screenshot_1580286445](https://user-images.githubusercontent.com/49294267/73339937-6bccff80-4282-11ea-8259-9bb3f05d7f6f.png)
+![Screenshot_1580286476](https://user-images.githubusercontent.com/49294267/73339939-6c659600-4282-11ea-9261-253a131e8876.png)
+![Screenshot_1580286482](https://user-images.githubusercontent.com/49294267/73339940-6c659600-4282-11ea-9086-fde352534dff.png)
+![Screenshot_1580286488](https://user-images.githubusercontent.com/49294267/73339943-6cfe2c80-4282-11ea-8c1c-f923821234b4.png)
+![Screenshot_1580286575](https://user-images.githubusercontent.com/49294267/73339944-6cfe2c80-4282-11ea-817b-318b20c07b6e.png)
+![Screenshot_1580286585](https://user-images.githubusercontent.com/49294267/73339945-6cfe2c80-4282-11ea-8797-93dcaac02aea.png)
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
